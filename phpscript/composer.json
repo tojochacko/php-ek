@@ -1,0 +1,15 @@
+{
+    "name": "root/es",
+    "description": "Create a php script to insert into Elastic Search",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Tojo C",
+            "email": "tojo@codechef.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "^7.0"
+    }
+}
